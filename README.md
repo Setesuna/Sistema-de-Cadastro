@@ -1,2 +1,2 @@
-# Sistema-de-cadastro
- Código desenvolvido para a criação de uma interface de sistema de cadastros, solicitado para trabalho de faculdade.
+# Sistema-de-Cadastro
+ Interface de sistema de cadastro de alunos criado para apresentação final do Projeto Integrador da faculdade.
